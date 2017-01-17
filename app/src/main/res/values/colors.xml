@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#373b48</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#8d8d90</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorTabTextUnSelected">#D3D3D2</color>
+    <color name="colorTabTextSelected">#FDFDFD</color>
+    <color name="colorTabIndicator">#fdfdfd</color>
+
+    <color name="colorSwipeRefresh1">#212121</color>
+    <color name="colorSwipeRefresh2">#FEC006</color>
+    <color name="colorSwipeRefresh3">#3E50B4</color>
+    <color name="colorSwipeRefresh4">#FE5621</color>
+    <color name="colorSwipeRefresh5">#9B26AF</color>
+    <color name="colorSwipeRefresh6">#02A8F3</color>
+    <array name="refresh_colors">
+        <item> @color/colorSwipeRefresh1</item>
+        <item> @color/colorSwipeRefresh2</item>
+        <item> @color/colorSwipeRefresh3</item>
+        <item> @color/colorSwipeRefresh4</item>
+        <item> @color/colorSwipeRefresh5</item>
+        <item> @color/colorSwipeRefresh6</item>
+    </array>
+</resources>
