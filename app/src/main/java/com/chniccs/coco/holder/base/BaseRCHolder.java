@@ -33,7 +33,7 @@ public abstract class BaseRCHolder<T>
 
     public void onClick(View paramView)
     {
-        if (this.mItemLongClickListener != null) {
+        if (this.mItemClickListener != null) {
             this.mItemClickListener.onClick(paramView, getAdapterPosition());
         }
     }
